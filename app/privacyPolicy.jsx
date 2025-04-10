@@ -90,7 +90,7 @@ export default function PrivacyPolicy() {
     <>
       <PageWrapper>
         <Header>
-          <Title>Privacy Policy</Title>
+          <Title>Your Privacy at Guardian View</Title>
         </Header>
 
         <Text>
